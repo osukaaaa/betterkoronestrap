@@ -46,24 +46,6 @@ python3 koronestrap.py
 
 ---
 
-## 🔨 Build KoroneStrap.exe
-
-> Requires Windows + Python 3.8+
-
-1. **Double-click `build.bat`** — it installs PyInstaller automatically and builds the exe.
-2. Find `KoroneStrap.exe` in the `dist/` folder.
-3. Move it anywhere — it's fully standalone!
-
-### Manual build:
-```bash
-pip install pyinstaller
-pyinstaller KoroneStrap.spec --clean
-```
-
-### Adding a custom icon:
-1. Put your icon as `icon.ico` in this folder
-2. Uncomment the `icon='icon.ico'` line in `KoroneStrap.spec`
-3. Rebuild
 
 ---
 
