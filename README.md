@@ -103,4 +103,5 @@ The Settings page lets you pick between `wine64` and `wine`, and set a custom Wi
 
 ---
 
-*Made with ♥ by vancyy and David*
+*Made with ♥ by osuka*
+*original by LittleBigDevs*
